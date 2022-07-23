@@ -213,6 +213,7 @@
   text-decoration: none;
   color: #2f80ed;
   position: absolute;
+  z-index: 1;
   top: 50%;
   right: 48px;
 }
