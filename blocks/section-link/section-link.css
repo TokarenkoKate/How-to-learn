@@ -1,0 +1,7 @@
+.section-link {
+  transition: opacity 0.3s linear;
+}
+
+.section-link:hover {
+  opacity: 0.4;
+}
